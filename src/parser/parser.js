@@ -1,4 +1,4 @@
-const Map = require('./ms.json')
+const Map = require('./xiaohe.json')
 const Syllable = require('./syllable.json')
 
 var Parser = {
